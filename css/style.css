@@ -122,3 +122,9 @@ p{
 .centrar{
     padding: 0.5 em;
 }
+.azul .rojo{
+    margin-left: 10%;
+}
+.azul .h2{
+    margin-left: 15%;
+}
