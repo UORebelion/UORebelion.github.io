@@ -1,5 +1,5 @@
 *{
-    margin:0;
+    margin: 0;
     padding:0;
     
 }
@@ -104,8 +104,8 @@ p{
 }
 
 #Archivos{
-    background-color: #2196f3;
-    border: 1px solid #2196f3;
+    background:linear-gradient(90deg, rgba(107,100,226,1) 0%, rgba(76,119,28,1) 35%, rgba(71,124,17,1) 37%, rgba(63,134,43,1) 42%, rgba(0,212,255,1) 100%);
+    /*border: 1px solid #2196f3;*/
 }
 
 .arriba{
@@ -127,4 +127,16 @@ p{
 }
 .azul .h2{
     margin-left: 15%;
+}
+h2{
+    margin-left: 5em;
+}
+.azul .texto{
+    border:none;
+    line-height: 200%;
+    font-size: 160%;
+    text-align: justify;
+    margin: 3%;
+    padding: 3%;
+    font-family: sans-serif;
 }
